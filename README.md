@@ -20,18 +20,6 @@ Berikut fitur-fitur yang tersedia :
 -   Popper.js 1.14.7
 -   Internet Connection
 
-## Installation
-
-Clone
-[program](https://github.com/EinzFiore/siArsip.git) untuk clone
-
-```bash
-git clone https://github.com/EinzFiore/siArsip.git your_project
-go to directory folder your_project
-move your_project to C:\xampp\htdocs
-
-```
-
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
